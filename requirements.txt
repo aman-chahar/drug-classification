@@ -3,4 +3,4 @@ scikit-learn==1.0.2
 streamlit
 pandas<2.0.0
 numpy
-pickle
+pickle5
